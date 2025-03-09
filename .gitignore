@@ -1,0 +1,93 @@
+  GNU nano 8.3                       .gitignore
+# Ignore system and text files
+*.lnk
+*.url
+*.bat
+*.txt
+
+# Ignore unnecessary scripts
+TwitterBot/clientratelimitscript.txt
+TwitterBot/correctauthenticationscript.txt
+TwitterBot/import-tweepy-script.txt
+TwitterBot/run_bot.bat
+TwitterBot/savebot1.txt
+TwitterBot/start_bot.bat
+TwitterBot/test_logging.py
+TwitterBot/tweet-script-python.txt
+TwitterBot/twitter_urls.txt
+twitter_urls.txt
+
+# Ignore Python virtual environments
+venv/
+# Ignore system and text files
+*.lnk
+*.url
+*.bat
+*.txt
+
+# Ignore unnecessary scripts
+TwitterBot/clientratelimitscript.txt
+TwitterBot/correctauthenticationscript.txt
+TwitterBot/import-tweepy-script.txt
+TwitterBot/run_bot.bat
+TwitterBot/savebot1.txt
+TwitterBot/start_bot.bat
+TwitterBot/test_logging.py
+TwitterBot/tweet-script-python.txt
+TwitterBot/twitter_urls.txt
+twitter_urls.txt
+
+# Ignore Python virtual environments
+venv/
+# Ignore system and text files
+*.lnk
+*.url
+*.bat
+*.txt
+
+# Ignore unnecessary scripts
+TwitterBot/clientratelimitscript.txt
+TwitterBot/correctauthenticationscript.txt
+TwitterBot/import-tweepy-script.txt
+TwitterBot/run_bot.bat
+TwitterBot/savebot1.txt
+TwitterBot/start_bot.bat
+TwitterBot/test_logging.py
+TwitterBot/tweet-script-python.txt
+TwitterBot/twitter_urls.txt
+twitter_urls.txt
+
+# Ignore Python virtual environments
+venv/
+*/venv/
+StockAnalysisProgram/venv/
+TwitterBot/venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore logs, cache, and temporary files
+*.log
+*.csv
+*.json
+*.sqlite
+*.db
+*.zip
+
+# Ignore environment/config files (sensitive data)
+.env
+config.json
+credentials.json
+
+# Ignore build files and dependencies
+build/
+dist/
+*.exe
+*.spec
+*.pyd
+*.dll
+
+# Ignore system files
+.DS_Store
+Thumbs.db
